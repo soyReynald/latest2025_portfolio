@@ -1,0 +1,10 @@
+.img-profile{
+    margin-top: 0%;
+    border-radius: 30%;
+    overflow: hidden;
+}
+
+
+body.container > section div {
+    padding-top: 1rem;
+}
