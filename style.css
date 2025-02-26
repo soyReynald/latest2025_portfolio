@@ -8,3 +8,7 @@
 body.container > section div {
     padding-top: 1rem;
 }
+
+.container {
+    margin: 0px auto;
+}
