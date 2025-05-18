@@ -1,0 +1,40 @@
+/***************************
+* Template developed by: Reynald M. Rodriguez Ramirez
+* Date: 2025
+* Location: Dominican Republic
+***************************/
+
+
+.img-profile{
+    margin-top: 0%;
+    border-radius: 30%;
+    overflow: hidden;
+}
+
+
+body.container > section div {
+    padding-top: 1rem;
+}
+
+.container {
+    margin: 0px auto;
+}
+
+/* Gallery section to style */
+
+#gallery {
+    display: block;
+    flex-flow: row;
+    align-items: center;
+    padding-left: 15vw;
+    padding-bottom: 15vh;
+    display: inline-block;
+    overflow-y: hidden;
+    object-fit: cover;
+    height: 500px;
+}
+
+#gallery #gallery_img_container {
+    height: 38rem;
+    vertical-align: middle;
+}
